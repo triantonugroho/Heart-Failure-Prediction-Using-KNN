@@ -6,6 +6,9 @@
   - ###	Test Recall: 0.8838709677419355
   - ###	Test ROC AUC Score: 0.8675553185817115
 
+* ### This project has been uploaded in a website portfolio as follows:
+  - #### https://bisa.ai/portofolio/detail/ODIz
+
 ![1-Cover](https://user-images.githubusercontent.com/91950433/218283820-f4149bc6-d8eb-40a5-b094-a6fbd4cf8c23.png)
 
 ### Data Understanding ###
