@@ -2,7 +2,7 @@
 
 * ### This project predicts whether a person has heart disease or not using a K-Nearest Neighbors model and compares the model performance using default parameter, best cross-validated score, and hyperparameter tuning with GridSearchCV, and  gets the best model performance with an accuracy of  86,96% from the model that uses default parameter, and the model performance is as follows:
   - ###	Test Accuracy Score: 0.8695652173913043
-	- ###	Test Precision: 0.8838709677419355
+  - ###	Test Precision: 0.8838709677419355
   - ###	Test Recall: 0.8838709677419355
   - ###	Test ROC AUC Score: 0.8675553185817115
 
